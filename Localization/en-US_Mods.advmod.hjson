@@ -5,4 +5,11 @@ Items: {
 		DisplayName: World Slicer
 		Tooltip: ""
 	}
+
+	Spear1: {
+		DisplayName: Spear1
+		Tooltip: ""
+	}
 }
+
+Projectiles.Spear1Projectile.DisplayName: Spear1 Projectile
